@@ -1,5 +1,6 @@
 # P2PChat
-#CNG 436: Wireless Networks Assignment 2
+# CNG 436: Wireless Networks Assignment 2
+
 Team Members:
 
 Barış Gökmen
